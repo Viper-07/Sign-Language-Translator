@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+models/*.pkl
+!models/.keep
+data/raw/*
+!data/raw/.keep
+data/processed/*
+!data/processed/.keep
+.venv/
+venv/
+env/
